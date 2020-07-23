@@ -24,6 +24,7 @@ export const Comparatizer: React.FC<IComparatizerPropTypes> = (
         width: window.innerWidth,
       }}
     >
+      <h1>Comparatizer</h1>
       <Row>
         <Col md="6">
           <FormGroup>
